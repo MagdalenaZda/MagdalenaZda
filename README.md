@@ -4,7 +4,7 @@ I am Magda, a data analyst based in Poland.
 
 I am passionate about turning data chaos into meaningful insights.
 
-My favourite project [analiza czynników odmrożeń](https://github.com/MagdalenaZda/analiza-czynnikow-odmrozen)
+My favourite project [analysis of frostbites](https://github.com/MagdalenaZda/analysis-of-frostbites)
 
 My Technical Skills:
 - BI & Visualization: Power BI (DAX, Power Query), Excel
